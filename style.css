@@ -48,6 +48,15 @@ body {
 
 }
 
+.pro {
+    display: flex; 
+    flex-direction: column;
+    font-size: large;
+    color: black;
+}
 
+.proekt {
+    color: black;
+}
 
 
